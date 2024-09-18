@@ -1,0 +1,21 @@
+Grant_ID,Project_Name,Grant_Amount,Funds_Allocated,Start_Date,End_Date,Completion_Percentage,Key_Deliverables,Success_Rate (%),Manager_Name
+1,Community Health Outreach,100000.0,60000.0,2023-01-01,2024-01-01,70.0,Health surveys and workshops,85.0,John Doe
+2,Renewable Energy Initiative,250000.0,180000.0,2022-05-01,2025-05-01,45.0,Solar panel installations,60.0,Jane Smith
+3,Youth Education Program,50000.0,30000.0,2023-03-01,2024-03-01,90.0,After-school tutoring sessions,95.0,Mary Lee
+4,Urban Green Spaces Development,200000.0,150000.0,2022-09-01,2023-12-31,50.0,Community gardens and parks,70.0,Alex Johnson
+5,Clean Water Access Program,150000.0,80000.0,2023-02-01,2024-07-01,60.0,Water filtration systems installation,80.0,Emily Davis
+6,Rural Healthcare Expansion,300000.0,200000.0,2023-04-01,2025-04-01,30.0,Mobile health clinics,50.0,Chris Brown
+7,Digital Literacy for Seniors,120000.0,60000.0,2022-12-01,2024-05-01,75.0,Workshops on digital skills,90.0,Katie White
+8,Coastal Erosion Prevention,180000.0,100000.0,2022-10-01,2024-01-15,40.0,Beach restoration projects,65.0,Brian Green
+9,Small Business Development Fund,75000.0,50000.0,2023-05-01,2024-12-01,80.0,Business mentorship programs,75.0,Sarah Black
+10,Mental Health Awareness Campaign,90000.0,45000.0,2023-06-01,2024-10-01,65.0,Mental health support groups,80.0,David Blue
+11,Affordable Housing Project,250000.0,230000.0,2022-11-01,2025-01-01,85.0,Housing construction,90.0,Alice Grey
+12,Food Security Program,130000.0,80000.0,2023-01-15,2024-09-01,55.0,Nutritional workshops,70.0,Tom Red
+13,Environmental Conservation Initiative,170000.0,160000.0,2022-08-01,2024-11-01,95.0,Tree planting campaigns,95.0,Jessica Yellow
+14,Women in STEM Education,110000.0,90000.0,2023-07-01,2025-06-01,90.0,STEM training for girls,85.0,Laura Pink
+15,Renewable Resources Research,300000.0,270000.0,2023-09-01,2025-03-01,88.0,Research on renewable resources,88.0,Kevin Orange
+16,Disaster Preparedness Training,220000.0,190000.0,2022-04-01,2025-01-01,70.0,Training for disaster response,75.0,Megan Violet
+17,Public Transportation Improvement,160000.0,80000.0,2022-03-01,2025-02-01,65.0,Public transit route enhancements,60.0,Chris Black
+18,Cultural Heritage Preservation,195000.0,120000.0,2022-10-01,2025-03-01,80.0,Cultural events and festivals,90.0,Nina Green
+19,Tech for Good Initiative,140000.0,100000.0,2023-08-01,2025-04-01,70.0,Tech workshops for nonprofits,85.0,Zoe Brown
+20,Biodiversity Research Project,300000.0,150000.0,2023-11-01,2025-05-01,60.0,Biodiversity monitoring programs,80.0,Max White
